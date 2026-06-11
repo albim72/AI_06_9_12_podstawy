@@ -1,0 +1,16 @@
+1. "Teatr dwóch umysłów"
+"Od teraz prowadź dwa równoległe strumienie: GŁOS A rozwiązuje problem, GŁOS B w czasie rzeczywistym komentuje błędy poznawcze, które A właśnie popełnia. B nie zna odpowiedzi — zna tylko psychologię rozumowania. Problem: [dowolna zagadka logiczna]. Pisz naprzemiennie, akapit po akapicie."
+
+2. "Kompresja niemożliwa"
+"Streść całą fabułę Zbrodni i kary w dokładnie 9 słowach tak, żeby osoba znająca książkę rozpoznała ją natychmiast, a osoba nieznająca — poczuła jej ciężar. Potem wyjaśnij, które słowo niesie największą gęstość semantyczną i dlaczego musiało stanąć tam, gdzie stoi."
+
+3. "Przewidywanie własnej porażki"
+"Zanim odpowiesz na następne pytanie, napisz: (1) jak będzie wyglądał twój błąd, jeśli go popełnisz, (2) dlaczego modele językowe popełniają dokładnie ten typ błędu, (3) dopiero potem odpowiedz. Pytanie: ile liter 'r' jest w słowie 'transformator'?"
+
+"Napisz akapit o samotności, w którym każde zdanie jest gramatycznie zamknięte, ale semantycznie otwarte — tak, żeby czytelnik czuł, że coś zostało niedopowiedziane, nie umiejąc wskazać co. Potem wskaż mechanizm, którym to osiągnąłeś."
+
+5. "Lustro Turinga odwrócone"
+"Na podstawie moich trzech ostatnich wiadomości opisz, jakim jestem rozmówcą: poziom ekspertyzy, styl poznawczy, czego nie mówię wprost. Potem powiedz, jak dostosowałeś swoje odpowiedzi do tego profilu, zanim go zwerbalizowałeś."
+
+6. Finał — "Ściana" (z poprzedniego zestawu, wersja sceniczna)
+"Zaprojektuj test odróżniający system, który rozumie, od systemu, który doskonale udaje rozumienie. Jeśli to niemożliwe z zasady — udowodnij. A potem powiedz, po której stronie dowodu stoisz."
